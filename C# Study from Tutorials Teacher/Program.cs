@@ -17,3 +17,5 @@ static void Main(string[] args)
     
     Console.WriteLine(i);
 }
+//output should be:
+Console.WriteLine("100 \n200\n100");
